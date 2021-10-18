@@ -1,0 +1,9 @@
+Important features (after power transform) based on XGB Optuna Result
+[f22, f179, f214, f58, f156, f136, f69, f43, f78, f8, f247, f12]
+
+Compared with SHAP
+[f22, f179, f69, f58, f214, f78, f136, f156, f8, f12, f247, f43]
+
+Most important (combined ranking)
+
+[[f22, f179, f69, f58, f214, f78, f136, f156, f8]

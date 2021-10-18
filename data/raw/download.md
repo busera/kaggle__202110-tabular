@@ -1,0 +1,1 @@
+kaggle competitions download -c tabular-playground-series-oct-2021

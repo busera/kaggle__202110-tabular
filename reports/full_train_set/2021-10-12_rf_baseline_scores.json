@@ -1,0 +1,14 @@
+[
+    {
+        "Accuracy Train": 1.0,
+        "MCC Train": 1.0,
+        "F1 Train": 1.0,
+        "ROC AUC Train": 0.9999999999999999
+    },
+    {
+        "Accuracy Valid": 0.7581,
+        "MCC Valid": 0.5188004075831347,
+        "F1 Valid": 0.7575160970874119,
+        "ROC AUC Valid": 0.8313293439477797
+    }
+]

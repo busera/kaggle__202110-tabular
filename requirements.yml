@@ -1,0 +1,18 @@
+name: kaggle_competition
+channels:
+  - conda-forge
+dependencies:
+# - lazypredict
+  - pandas
+  - jupyterlab
+  - scikit-learn
+  - catboost
+  - mlxtend
+# - seaborn
+  - matplotlib
+  - requests
+  - pip
+  - pip:
+    - kaggle
+    - xgboost
+    - lightgbm
