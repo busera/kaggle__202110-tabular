@@ -1,13 +1,6 @@
-#lazypredict
+# Basics
 pandas
 jupyterlab
-scikit-learn
-lightgbm
-xgboost
-catboost
-mlxtend
-optuna
-#Boruta
 requests
 seaborn
 plotly
@@ -17,3 +10,15 @@ kaggle
 flake8
 black
 watermark
+
+#ML
+scikit-learn
+tensorflow-gpu
+lightgbm
+xgboost
+catboost
+mlxtend
+optuna
+#lazypredict
+#shap
+#Boruta
