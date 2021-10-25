@@ -1,18 +1,8 @@
-name: kaggle_competition
+name: kaggle-competition
 channels:
   - conda-forge
 dependencies:
-# - lazypredict
-  - pandas
-  - jupyterlab
-  - scikit-learn
-  - catboost
-  - mlxtend
-# - seaborn
-  - matplotlib
-  - requests
+  - python=3.9
   - pip
   - pip:
-    - kaggle
-    - xgboost
-    - lightgbm
+    - -r requirements.txt

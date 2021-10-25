@@ -19,6 +19,7 @@ xgboost
 catboost
 mlxtend
 optuna
+mlflow
 #lazypredict
 #shap
 #Boruta
