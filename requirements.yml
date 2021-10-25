@@ -1,4 +1,4 @@
-name: kaggle-competition
+name: kaggle
 channels:
   - conda-forge
 dependencies:
