@@ -2,7 +2,7 @@ artifact_uri: file:///C:/Users/buser/SynologyDrive/PARA_SyDr/01_Projects/kaggle_
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: d453540400dd4b3b9d059b400aed34f1
 run_uuid: d453540400dd4b3b9d059b400aed34f1
