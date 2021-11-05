@@ -1,25 +1,25 @@
 # Basics
-pandas
-jupyterlab
-requests
-seaborn
-plotly
-matplotlib
+#pandas
+#jupyterlab
+#requests
+#seaborn
+#plotly
+#matplotlib
 icecream
 kaggle
-flake8
-black
+#flake8
+#black
 watermark
 
 #ML
-scikit-learn
+#scikit-learn
 tensorflow-gpu
 lightgbm
 xgboost
 catboost
-mlxtend
+mlxtend # stacking
 optuna
 mlflow
+#shap # recommended via conda
 #lazypredict
-#shap
 #Boruta

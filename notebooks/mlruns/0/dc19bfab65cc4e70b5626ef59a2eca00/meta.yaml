@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/buser/SynologyDrive/PARA_SyDr/01_Projects/kaggle__202110-tabular/notebooks/mlruns/0/dc19bfab65cc4e70b5626ef59a2eca00/artifacts
+end_time: 1635621645169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dc19bfab65cc4e70b5626ef59a2eca00
+run_uuid: dc19bfab65cc4e70b5626ef59a2eca00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1635617490991
+status: 3
+tags: []
+user_id: buser
