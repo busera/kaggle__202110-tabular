@@ -16,9 +16,7 @@ For ideas on how to improve your score, check out the Intro to Machine Learning 
 # Evaluation
 Submissions are evaluated on **area under the ROC curve** between the predicted probability and the observed target.
 
-
-# Meta
+# Data
 - Source: [Kaggle](https://www.kaggle.com/c/tabular-playground-series-oct-2021/overview/evaluation)
 - Data: `kaggle competitions download -c tabular-playground-series-oct-2021`
 - Repo: kaggle__202110-competition
-- Competion date: 2021-Oct
